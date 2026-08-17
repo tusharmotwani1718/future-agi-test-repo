@@ -1,0 +1,27 @@
+{
+  "name": "future-agi-test-repo",
+  "version": "1.0.0",
+  "description": "This is a test repo to test future agi features",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tusharmotwani1718/future-agi-test-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tusharmotwani1718/future-agi-test-repo/issues"
+  },
+  "homepage": "https://github.com/tusharmotwani1718/future-agi-test-repo#readme",
+  "dependencies": {
+    "@traceai/fi-core": "^1.0.0",
+    "@traceai/openai": "^0.1.13",
+    "dotenv": "^17.4.2",
+    "openai": "^7.4.0"
+  }
+}
